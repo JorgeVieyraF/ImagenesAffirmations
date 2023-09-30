@@ -68,6 +68,7 @@ fun AffirmationsApp() {
     )
 }
 
+
 @Composable
 fun AffirmationCard(affirmation: Affirmation, modifier: Modifier = Modifier) {
     Card(modifier = modifier) {
